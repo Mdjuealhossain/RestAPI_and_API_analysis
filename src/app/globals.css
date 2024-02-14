@@ -1,0 +1,87 @@
+/* lading button :start */
+
+/* .MuiButton-outlinedSizeSmall{
+font-size: 2rem;
+padding: 2rem;
+border-radius: 20px;
+
+}
+
+.Mui-disabled{
+    border: 1px solid #ff0000;
+}
+/* lading button :end */
+
+/* card start */
+/* .MuiCard-root{
+background: #ffffff;
+color: #000;
+border-radius: 10px;
+}
+
+.MuiCardContent-root{
+padding: 20px;
+}
+.MuiCardActions-root{
+display: flex;
+align-items: center;
+padding: 10px;
+} */
+
+
+
+/* card end */
+/* Avarter start */
+/* .MuiAvatar-root{
+position: relative;
+display: flex;
+align-items: center;
+justify-content: center;
+font-family:auto;
+line-height:1 ;
+
+
+}
+ .MuiAvatar-circular{
+border-radius: 50%;
+
+} 
+	.MuiAvatar-img{
+
+    width: 100%;
+    height: 100%;
+    text-align: center;
+
+    }
+    .MuiAvatar-square{
+
+border-radius: 0;
+
+    }
+    .MuiAvatar-rounded{
+border-radius: 10px;
+
+
+    }
+	.MuiAvatar-colorDefault{
+        background:#ffa9a9;
+        color: #000;
+    } */
+/* Avarter end */
+
+/* AvatarGroup start */
+.MuiAvatarGroup-root{
+  display: flex;
+  flex-direction: row-reverse;
+
+}
+.MuiAvatarGroup-avatar{
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    color: black;
+    border-radius: 0%;
+    border: 2px solid #ff00a9;
+}
+
+/* AvatarGroup end */
