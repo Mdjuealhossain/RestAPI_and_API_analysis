@@ -59,7 +59,7 @@ const AxiosApiMethod = () => {
     .then((res) => console.log(res.data))
     .catch((err) => console.log(err));
 
-  return <div></div>;
+  return <div> Axios method</div>;
 };
 
 export default AxiosApiMethod;
