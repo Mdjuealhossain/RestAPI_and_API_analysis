@@ -36,6 +36,7 @@
 
 // export default Home;
 
+import AxiosApiMethod from "@/widget/AxiosApiMethod";
 import FetchRequest from "@/widget/FetchRequest";
 import XmlHttpRequest from "@/widget/XmlHttpRequest";
 import { Box, Button, TextField, Typography } from "@mui/material";
@@ -44,7 +45,7 @@ import React, { useState, FormEvent, Suspense } from "react";
 export default function Page() {
   return (
     <Box>
-      <FetchRequest />
+      <AxiosApiMethod />
     </Box>
   );
 }
