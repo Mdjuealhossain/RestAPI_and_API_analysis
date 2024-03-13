@@ -2,7 +2,7 @@
 import { ThemeProvider, createTheme } from "@mui/material";
 import "./globals.css";
 import { Inter } from "next/font/google";
-import { theme } from "./ThemingContainet/createTheme";
+import { theme } from "@/theme/createTheme";
 import { Suspense } from "react";
 import Loading from "./loading";
 

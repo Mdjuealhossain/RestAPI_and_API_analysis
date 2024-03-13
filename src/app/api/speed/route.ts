@@ -1,4 +1,4 @@
-import { posts } from "@/app/DataFetchComponent/restApi";
+import { posts } from "@/widget/DataFetchComponent/restApi";
 
 export const GET = () => {
   return Response.json(posts);
